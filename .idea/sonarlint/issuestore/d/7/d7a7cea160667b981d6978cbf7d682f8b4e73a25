@@ -1,0 +1,84 @@
+
+pjavascript:S3504")Unexpected var, use let or const instead.(Ò¥þ‡þÿÿÿÿJ$d480ac51-8134-4471-8604-a570a486cc18
+pjavascript:S3504")Unexpected var, use let or const instead.(§¸ëÂùÿÿÿÿJ$f1d8b7bc-896a-4f51-88c9-5f7073c4fb1f
+£javascript:S2392"\Consider moving declaration of 'action' as it is referenced outside current binding context.(§¸ëÂùÿÿÿÿJ$1b66d39a-c72c-42c7-a827-0e9236fced15
+™javascript:S2392"WConsider moving declaration of 'i' as it is referenced outside current binding context.(ª…þòJ$13d300cd-ca69-4dc3-b47c-065cd31dfc50
+pjavascript:S3504#")Unexpected var, use let or const instead.(§¸ëÂùÿÿÿÿJ$a1be28a4-dba6-479f-a9a3-5714f466a9b3
+cjavascript:S2814#"'action' is already defined.(§¸ëÂùÿÿÿÿJ$f538b065-d57d-4b2a-9ba1-5fe761a161cf
+Yjavascript:S2814$"'i' is already defined.(ª…þòJ$37192a01-295b-4a3f-a436-7ba2c8fe29e0
+kjavascript:S35049")Unexpected var, use let or const instead.(Ž¢ÜšJ$d88b6ff8-f993-452e-a662-35c43f35cf0b
+©javascript:S2703="bAdd the "let", "const" or "var" keyword to this declaration of "requestFrame" to make it explicit.(«ê´‰þÿÿÿÿJ$b635e2c4-6745-4081-aff7-91ffd6d67679
+pjavascript:S3504v")Unexpected var, use let or const instead.(¯ÄŽÃÿÿÿÿÿJ$f0b9ff5a-c4dc-4c1a-a14b-8f9aa8a07d17
+pjavascript:S3504y")Unexpected var, use let or const instead.(ÇÙ„–üÿÿÿÿJ$8eb701cc-bd15-489a-b4c9-33d18ef9d418
+~javascript:S1481y"7Remove the declaration of the unused 'canvas' variable.(ÇÙ„–üÿÿÿÿJ$c5b59279-e455-4595-9559-fdc69bd5a890
+{javascript:S1854y"4Remove this useless assignment to variable "canvas".(ÇÙ„–üÿÿÿÿJ$f26fdb87-0259-42b7-bb18-6202282f069f
+ƒjavascript:S1481}"<Remove the declaration of the unused 'resizeTimer' variable.(“¬Ý²ùÿÿÿÿJ$5527015d-9c12-4225-8c85-2c50e6fd9c1c
+ljavascript:S3504…")Unexpected var, use let or const instead.(”¥ÎâJ$2e8f4ba8-1e04-412e-b763-f19b7ae60ea0
+_javascript:S2814‡"'m' is already defined.(ÂŽ¢ÐùÿÿÿÿJ$c824359a-4ee2-400c-8ae9-87b35b4b9051
+£javascript:S6582Œ"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(‘¼êÌúÿÿÿÿJ$67f7a183-cb2e-4d3a-afe5-df0f49ed609e
+žjavascript:S6582"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(öÏô•J$a39f4972-768c-4bb7-b51b-a26d31b69a99
+ljavascript:S3504­")Unexpected var, use let or const instead.(øíˆ“J$88b25072-e543-4332-9125-e8a4b1b26425
+cjavascript:S2814®"'value' is already defined.(÷¿¿üÿÿÿÿJ$4dd3af6e-c030-4a20-99de-abd2356b5f5f
+ajavascript:S125´"Remove this commented out code.(áªJ$9bf929ae-942c-4064-9d85-6e343e06e398
+ajavascript:S125¶"Remove this commented out code.(ãà£‰J$40fb097f-aa8d-47bf-9b69-a405d90923fc
+£javascript:S6582Ñ"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ã»ü†ùÿÿÿÿJ$63f35a2e-52b9-4938-ae71-5da0a034fe09
+qjavascript:S3504Þ")Unexpected var, use let or const instead.(ÃŸØ¼ýÿÿÿÿJ$f1443521-a430-4f15-a602-e84c036132b0
+qjavascript:S1481ù")Remove unused function 'checkInputWidth'.(¾È¸ºùÿÿÿÿJ$9d268e91-0562-4c78-b601-4011ffd17a24
+fjavascript:S125‰"Remove this commented out code.(Þ±†¤ÿÿÿÿÿJ$cf51a0ed-4eba-4c17-ad69-474ad3a9ebde
+[javascript:S1874‹"'keyCode' is deprecated.(ñÓ¤J$f365b35b-f490-479b-a1c3-e97fb2739987
+fjavascript:S125’"Remove this commented out code.(ß«×ýûÿÿÿÿJ$ebf52acb-77b8-4871-8e50-3e66f58d0815
+fjavascript:S125–"Remove this commented out code.(Ñ¥¶èþÿÿÿÿJ$8b9d58df-a67f-433f-9777-0599b3fcce56
+fjavascript:S125›"Remove this commented out code.(ëÎÞÙúÿÿÿÿJ$bafde794-bc88-4430-bac9-4cbe7676c0be
+fjavascript:S125¿"Remove this commented out code.(©®µÜÿÿÿÿÿJ$fa8bfd4c-e441-43c5-b186-2ad7eafb504b
+fjavascript:S125Æ"Remove this commented out code.(Þ±†¤ÿÿÿÿÿJ$940fa980-7d1d-4afc-b1e6-eb4b420f5dbf
+qjavascript:S3504Ö")Unexpected var, use let or const instead.(ÖÚ›€þÿÿÿÿJ$0583e072-2aaa-4ae2-b9cd-1afb27926baf
+}javascript:S1481Ö"5Remove the declaration of the unused 'tabs' variable.(ÖÚ›€þÿÿÿÿJ$dee9e6a1-f18a-4239-93b2-f94b95eb61ed
+zjavascript:S1854Ö"2Remove this useless assignment to variable "tabs".(ÖÚ›€þÿÿÿÿJ$e04e5689-999f-44e9-b1e3-69ef942ae238
+ljavascript:S3504â")Unexpected var, use let or const instead.(£•ä—J$6f6ef045-1c0c-42b0-ae63-eb2d218bca73
+qjavascript:S3504æ")Unexpected var, use let or const instead.(íŠÝ”ûÿÿÿÿJ$09e2924e-8e89-409a-9263-18b8e1a285ce
+qjavascript:S3504¸")Unexpected var, use let or const instead.(ÝØ£»üÿÿÿÿJ$126c9690-bb90-4c60-8f14-aeecb25780c8
+‚javascript:S6660È"?'If' statement should not be the only statement in 'else' block(ÓÙˆÖJ$0d6a99a0-c5c9-48ff-af00-4792873a3e4e
+ljavascript:S3504Ô")Unexpected var, use let or const instead.(ª¤œŠJ$a1f7f4a0-327f-4bda-8c9f-3a02e307f252
+‚javascript:S6660Ý"?'If' statement should not be the only statement in 'else' block(Ù¢…šJ$2137d3f3-6f1f-4410-8ad2-840cc7497c2b
+Ÿjavascript:S2703é"WAdd the "let", "const" or "var" keyword to this declaration of "d" to make it explicit.(´ÔØ£ûÿÿÿÿJ$775788da-a432-4423-95f8-724f9439f17a
+qjavascript:S3504ð")Unexpected var, use let or const instead.(£œ³ÍùÿÿÿÿJ$cacf8d4c-b362-4bd1-b497-75f3f1394dc7
+ljavascript:S3504…")Unexpected var, use let or const instead.(ÕßáñJ$6ada00ca-3303-4afa-a0f5-26f6ee07aa77
+yjavascript:S1481†"6Remove the declaration of the unused 'start' variable.(ŸðÿãJ$d48ccd94-e599-4dda-90d9-40c0f5a700bd
+vjavascript:S1854†"3Remove this useless assignment to variable "start".(ŸðÿãJ$3cffa7f8-8ac5-4758-9c3a-fd4bbdee7118
+fjavascript:S125‡"Remove this commented out code.(§¹©ŒþÿÿÿÿJ$b1523f56-5a20-4f12-9a55-ba545126b02f
+qjavascript:S3504")Unexpected var, use let or const instead.(Õ²ŸíøÿÿÿÿJ$79f836aa-c6a0-4119-927b-be6ae331ed18
+œjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¥ÊŒïúÿÿÿÿJ$a1f0e509-af9b-46fd-a971-863b0f1073d9
+qjavascript:S3504ž")Unexpected var, use let or const instead.(Ÿˆ´çüÿÿÿÿJ$7dc42659-cc35-4748-a27a-2d6a13c7aa62
+¢javascript:S2703Ÿ"ZAdd the "let", "const" or "var" keyword to this declaration of "dots" to make it explicit.(“­Ê¥þÿÿÿÿJ$6c374b46-72db-432f-91e6-b0a07273ddb6
+hjavascript:S878Ÿ"!Unexpected use of comma operator.(“­Ê¥þÿÿÿÿJ$7f4d23e4-27df-472f-9838-ef7da74e91cb
+šjavascript:S2703¡"WAdd the "let", "const" or "var" keyword to this declaration of "x" to make it explicit.(ÊþØäJ$c48decf4-7ee7-4908-ba54-aad85dcc9fca
+šjavascript:S2703¢"WAdd the "let", "const" or "var" keyword to this declaration of "y" to make it explicit.(þ›ÿñJ$a6f69a08-1455-44e8-8d26-a1dbf4ab1050
+ javascript:S2703£"XAdd the "let", "const" or "var" keyword to this declaration of "fx" to make it explicit.(ÀÁ¦ýþÿÿÿÿJ$aaeea536-fb13-42a7-9613-27e3a92e37be
+ javascript:S2703¤"XAdd the "let", "const" or "var" keyword to this declaration of "fy" to make it explicit.(ÖãˆÕÿÿÿÿÿJ$00853ce3-a681-4ce0-9eb3-e103a5abd75e
+™javascript:S2703¥"WAdd the "let", "const" or "var" keyword to this declaration of "w" to make it explicit.(ª°ÈJJ$1d75e711-98f9-4c9a-8046-e5abb227baf6
+šjavascript:S2703¦"WAdd the "let", "const" or "var" keyword to this declaration of "h" to make it explicit.(×ÏÓJ$a97a9647-fc21-4704-9a97-800b90d385b1
+qjavascript:S3504¨")Unexpected var, use let or const instead.(ÑØ€ñÿÿÿÿÿJ$96202fdd-577d-41ca-bc97-45b29b9879de
+fjavascript:S2310º"Remove this assignment of "p".(–³åÁøÿÿÿÿJ$7fe66f25-8985-4683-b407-9302f9c93c1d
+ljavascript:S3504Ó")Unexpected var, use let or const instead.(ˆÃø«J$ab0cc1dc-745a-4a7b-b31a-aaa9e08b9f58
+qjavascript:S3504ä")Unexpected var, use let or const instead.(‹§„ÓýÿÿÿÿJ$10205760-c9ee-4ec3-93a5-ca4185824c3e
+qjavascript:S3504ï")Unexpected var, use let or const instead.(Ô¥¬úÿÿÿÿJ$c3f51571-ad00-4d8d-8e85-e6168839ab77
+ljavascript:S3504þ")Unexpected var, use let or const instead.(˜»«ÀJ$f1782914-6330-41f5-98dc-048436d72d6b
+qjavascript:S3504‚")Unexpected var, use let or const instead.(µã€ûùÿÿÿÿJ$cb3873a1-4902-4955-9883-7747e1346a21
+qjavascript:S3504ƒ")Unexpected var, use let or const instead.(Ãíœ‘ùÿÿÿÿJ$88df31d3-c274-4330-8a12-e5b6e95980ba
+ljavascript:S3504’")Unexpected var, use let or const instead.(˜»«ÀJ$98470a6b-05d2-4768-8c92-6923e1084753
+ljavascript:S3504™")Unexpected var, use let or const instead.(÷ Ü›J$72459126-54ee-42d8-bb8b-23597ed99153
+ljavascript:S3504¡")Unexpected var, use let or const instead.(÷ Ü›J$1f86c76e-6a5d-479a-90ef-7f161a39641c
+Žjavascript:S4138£"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(üÈã1J$3127f783-9f42-4837-8066-51887bda4f28
+kjavascript:S3504£")Unexpected var, use let or const instead.(üÈã1J$248595f4-2ff8-4bf6-8c38-156d60c1eeb4
+—javascript:S3776­"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(þÝª·J$171db62b-ab95-493f-8e73-3f7767f5a502
+ljavascript:S3504®")Unexpected var, use let or const instead.(®ÐìJ$208415fa-e9eb-471e-bc82-f22ae5c79058
+ljavascript:S3504¸")Unexpected var, use let or const instead.(™¥ãìJ$cc91de84-c329-4070-a451-383a86a82b8e
+šjavascript:S2392¸"WConsider moving declaration of 'd' as it is referenced outside current binding context.(™¥ãìJ$2f29fb5d-f830-40dd-80ed-e1ddeb533650
+ljavascript:S3504½")Unexpected var, use let or const instead.(ÿ²¶ÐJ$0ef40bad-ba67-4a63-aa57-7bc1ca0d99e9
+Zjavascript:S2814½"'d' is already defined.(ÿ²¶ÐJ$327c3dff-59af-46e0-b8f2-51fca8871728
+‡javascript:S3358Â"DExtract this nested ternary operation into an independent statement.(ë«ÌúJ$5913e08f-888d-4c49-b111-56ef579bf398
+qjavascript:S3504Þ")Unexpected var, use let or const instead.(¸¸Œ²øÿÿÿÿJ$f33bbe4d-18fe-4baa-9cdf-17a04c303b4d
+_javascript:S2814Þ"'i' is already defined.(¸¸Œ²øÿÿÿÿJ$15a1c63a-8fcf-440a-a4a2-837d1e0037da
+Ÿjavascript:S2392Þ"WConsider moving declaration of 'i' as it is referenced outside current binding context.(¸¸Œ²øÿÿÿÿJ$41c1eeec-c25d-4d21-afd7-93936636ed71
+Žjavascript:S4138ô"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(üÈã1J$84d0c26c-95a7-4814-a394-ea9482610dcf
+kjavascript:S3504ô")Unexpected var, use let or const instead.(üÈã1J$aebb8941-12ee-4187-9a68-5cf4c393eb27
